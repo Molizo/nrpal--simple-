@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1484637584 source:c:\users\mihneavisoiu\desktop\nrpal (simple)\main.cpp
+	<iostream>
+	<fstream>
+
